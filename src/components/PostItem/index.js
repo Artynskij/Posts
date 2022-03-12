@@ -1,0 +1,3 @@
+export { PostItem } from "./PostItem";
+
+ 
